@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_circle.xml.flat",
+        "source": "com.wiser.animationlistdemo.app-main-28:/drawable/shape_circle.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_yellow_radius.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_yellow_radius.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_tuzi.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/tuzi.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/layout_layout_login_bear.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/layout/layout_login_bear.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_ff8247_radius.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_ff8247_radius.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/xml_backup_rules.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/layout_layout_login_ip.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/layout/layout_login_ip.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_teal_200_radius.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_teal_200_radius.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_8b6969_radius.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_8b6969_radius.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_bear_nose_bg.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/bear_nose_bg.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/layout_activity_login_page.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/layout_activity_main.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_bear_head.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/bear_head.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_arm_left.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/arm_left.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_bear_bg.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_bear_bg.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_purple_200_radius_bottom.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_purple_200_radius_bottom.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_bear_eye.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/bear_eye.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_bear_hand_left.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/bear_hand_left.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_edit_bg.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_edit_bg.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_minions_btn_scan_see.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/minions_btn_scan_see.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_login_title.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/login_title.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/layout_activity_recyclerview_anim_details.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/layout/activity_recyclerview_anim_details.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_bear_hand_right.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/bear_hand_right.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_btn_bg.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_bear_mouth.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/bear_mouth.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_hippo.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/hippo.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_66cdaa_radius.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_66cdaa_radius.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_lion.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/lion.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_nes.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/nes.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/layout_activity_recyclerview_anim_item.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/layout/activity_recyclerview_anim_item.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_tiger.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/tiger.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/layout_activity_recyclerview_anim_page.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/layout/activity_recyclerview_anim_page.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_purple_200_radius.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_purple_200_radius.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_arm_right.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/arm_right.png"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_purple_700_radius.xml.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable/shape_purple_700_radius.xml"
+    },
+    {
+        "merged": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-merged_res-26:/drawable-xxhdpi_minions_btn_scan.png.flat",
+        "source": "/Users/wangxy/.gradle/daemon/7.5/com.wiser.animationlistdemo.app-main-28:/drawable-xxhdpi/minions_btn_scan.png"
+    },
+    {
+        "merged": "com.wiser.animationlistdemo.app-merged_res-26:/layout_activity_tip_page.xml.flat",
+        "source": "com.wiser.animationlistdemo.app-main-28:/layout/activity_tip_page.xml"
+    },
+    {
+        "merged": "com.wiser.animationlistdemo.app-merged_res-26:/drawable_shape_rectangle.xml.flat",
+        "source": "com.wiser.animationlistdemo.app-main-28:/drawable/shape_rectangle.xml"
+    }
+]
