@@ -9,14 +9,14 @@
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/tv_tip"
         android:layout_width="wrap_content"
-        android:layout_height="70dp"
-        android:minWidth="200dp"
+        android:layout_height="@dimen/ksl_dp_50"
+        android:minWidth="@dimen/ksl_dp_200"
         android:background="@drawable/shape_rectangle"
         android:gravity="center"
         android:textColor="@color/white"
-        android:textSize="20sp"
-        android:layout_marginEnd="15dp"
-        android:paddingHorizontal="25dp"
+        android:textSize="16sp"
+        android:layout_marginEnd="@dimen/ksl_dp_15"
+        android:paddingHorizontal="@dimen/ksl_dp_25"
         android:visibility="invisible"
         android:text="你最喜欢哪双球鞋？"
         tools:visibility="visible"
@@ -26,14 +26,14 @@
 
     <androidx.appcompat.widget.AppCompatTextView
         android:id="@+id/tv_toggle"
-        android:layout_width="70dp"
-        android:layout_height="70dp"
+        android:layout_width="@dimen/ksl_dp_50"
+        android:layout_height="@dimen/ksl_dp_50"
         android:layout_marginVertical="40dp"
         android:background="@drawable/shape_circle"
         android:gravity="center"
         android:text="+"
         android:textColor="@color/black"
-        android:textSize="35sp"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 

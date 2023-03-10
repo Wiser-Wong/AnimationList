@@ -9,15 +9,15 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/shape_bear_bg"
-        android:paddingHorizontal="10dp"
-        android:paddingTop="30dp"
+        android:paddingHorizontal="@dimen/ksl_dp_10"
+        android:paddingTop="@dimen/ksl_dp_20"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
         <com.wiser.animationlistdemo.loginanim.NodAnim
             android:id="@+id/fl_head"
-            android:layout_marginBottom="-10dp"
+            android:layout_marginBottom="@dimen/ksl_dp_m_10"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|center">
@@ -29,14 +29,14 @@
                 android:background="@drawable/bear_head" />
 
             <androidx.appcompat.widget.AppCompatImageView
-                android:layout_width="60dp"
-                android:layout_height="75dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:background="@drawable/bear_nose_bg" />
 
             <androidx.appcompat.widget.AppCompatImageView
-                android:layout_width="25dp"
-                android:layout_height="30dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:background="@drawable/bear_mouth" />
 
@@ -45,16 +45,16 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="start"
-                android:layout_marginStart="60dp"
-                android:layout_marginTop="95dp" />
+                android:layout_marginStart="@dimen/ksl_dp_45"
+                android:layout_marginTop="@dimen/ksl_dp_66" />
 
             <com.wiser.animationlistdemo.loginanim.WinkAnim
                 android:id="@+id/iv_right_eye"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="end"
-                android:layout_marginTop="95dp"
-                android:layout_marginEnd="60dp" />
+                android:layout_marginEnd="@dimen/ksl_dp_45"
+                android:layout_marginTop="@dimen/ksl_dp_66" />
 
         </com.wiser.animationlistdemo.loginanim.NodAnim>
 
@@ -62,7 +62,7 @@
 
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/iv_hand_left"
-        android:layout_width="65dp"
+        android:layout_width="@dimen/ksl_dp_55"
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
         android:rotation="-110"
@@ -74,7 +74,7 @@
 
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/iv_hand_right"
-        android:layout_width="65dp"
+        android:layout_width="@dimen/ksl_dp_55"
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
         android:rotation="110"
@@ -94,7 +94,7 @@
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="65dp"
+        android:layout_height="@dimen/ksl_dp_45"
         android:background="@color/white"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

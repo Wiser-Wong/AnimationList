@@ -25,8 +25,8 @@ class LoginPageActivity : AppCompatActivity() {
 
     private val normalSpace: Float by lazy { resources.getDimension(R.dimen.dimen12) }
 
-    private val dis1 = 206f
-    private val dis2 = 160f
+    private val dis1 by lazy { resources.getDimension(R.dimen.ksl_dp_70) }
+    private val dis2 by lazy { resources.getDimension(R.dimen.ksl_dp_50) }
     private val animDuration = 1000L
     private var isAnimRunning = false
     private var isOpenEye = false
@@ -116,7 +116,7 @@ class LoginPageActivity : AppCompatActivity() {
             }
 
             override fun afterTextChanged(p0: Editable?) {
-                setEyeTranslation(etEmail?.paint?.measureText(p0.toString()) ?: 0f)
+//                setEyeTranslation(etEmail?.paint?.measureText(p0.toString()) ?: 0f)
             }
 
         })

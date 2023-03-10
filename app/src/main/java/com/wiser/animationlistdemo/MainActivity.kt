@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import com.wiser.animationlistdemo.loginanim.LoginPageActivity
+import com.wiser.animationlistdemo.niftynotification.NotifyActivity
 import com.wiser.animationlistdemo.recyclerviewanim.RecyclerViewAnimActivity
 import com.wiser.animationlistdemo.tipanim.TipPageActivity
 
@@ -22,5 +23,9 @@ class MainActivity : AppCompatActivity() {
     }
     fun skipTipAnimPage(view: View) {
         startActivity(Intent(this, TipPageActivity::class.java))
+    }
+
+    fun skipNotifyAnimPage(view: View) {
+        startActivity(Intent(this, NotifyActivity::class.java))
     }
 }

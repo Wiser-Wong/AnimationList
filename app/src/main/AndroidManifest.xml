@@ -23,8 +23,10 @@
 
         <activity android:name=".recyclerviewanim.RecyclerViewAnimActivity"/>
         <activity android:name=".recyclerviewanim.DetailsActivity"/>
-        <activity android:name=".loginanim.LoginPageActivity"/>
+        <activity android:name=".loginanim.LoginPageActivity"
+            android:windowSoftInputMode="adjustPan"/>
         <activity android:name=".tipanim.TipPageActivity"/>
+        <activity android:name=".niftynotification.NotifyActivity"/>
     </application>
 
 </manifest>
